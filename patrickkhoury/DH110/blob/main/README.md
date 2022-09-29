@@ -2,7 +2,7 @@
 
 ## Assignment 1: Heuristic Evaluation
 
-Emily Dong | DH110 | Spring 2021
+Patrick Khoury | DH110 | Spring 2021
 
 ### About the project
 

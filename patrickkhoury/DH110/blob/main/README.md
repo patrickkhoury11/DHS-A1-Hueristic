@@ -1,4 +1,4 @@
-# Accessible Delivery of Health & Healthcare Information to Seniors
+# Sustainable Cities and Communities
 
 ## Assignment 1: Heuristic Evaluation
 

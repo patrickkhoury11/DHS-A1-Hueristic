@@ -26,7 +26,7 @@ According to the United Nations, cities occupy just 3 percent of the Earth’s l
 
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
 
-The following rating scale can be used to evaluate the severity of usability issues:
+The following rating scale, based upon Nielson's own scale, can be used to evaluate the severity of usability issues:
 | Rating | Description |
 |---|---|
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
@@ -34,7 +34,11 @@ The following rating scale can be used to evaluate the severity of usability iss
 | 3 | Major usability problem: important to fix, so should be given high priority |
 | 4 | Usability catastrophe: imperative to fix this before product can be released |
 
-Ratings are displayed in parentheses after each usability issue.
+Ratings are displayed in parentheses after each usability issue. 
+
+Reasons for Utilization of Severity Ratings: 
+| 1 | Used to allocate the most resources to fix the most serious problems. |
+| 2 | Can provide a rough estimate of the need for additional usability efforts. |
 
 ## Website 1: [The Department of Economic and Social Affairs Sustainable Development](https://sdgs.un.org/)
 

@@ -27,6 +27,7 @@ According to the United Nations, cities occupy just 3 percent of the Earth’s l
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
 
 The following rating scale, based upon Nielson's own scale, can be used to evaluate the severity of usability issues:
+
 | Rating | Description |
 |---|---|
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |

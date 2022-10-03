@@ -76,7 +76,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Don't make the whole page blue at each major step; keep the page gray/white to ensure contrast in the progress tracker. Also, create a visual representation of progress by numbering the steps and including arrows. Implement a progress bar that slides forward as the user completes the information.*
 
 #### 2. Match Between System and the Real World
-* The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals these numbers represent is not known to the majority of viewers. To be able to view which number means what, the user would have to scroll down to the very bottom of the website to see the info. (1):
+* The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals the numbers represent are not known to the vast majority of viewers. To be able to view the meaning behind each number, the user would have to scroll down to the very bottom of the website to see the info. (2):
 
 <p align="center">
   <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>

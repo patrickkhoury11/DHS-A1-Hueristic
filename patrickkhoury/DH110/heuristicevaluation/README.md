@@ -37,7 +37,7 @@ The following rating scale, based upon Nielson's own scale, can be used to evalu
 
 Ratings are displayed in parentheses after each usability issue. 
 
-Reasons for Utilization of Severity Ratings: 
+### Reasons for Utilization of Severity Ratings: 
 | Number | Reason | 
 |---|---|
 | 1 | Used to allocate the most resources to fix the most serious problems. |

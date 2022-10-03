@@ -35,12 +35,13 @@ The following rating scale can be used to evaluate the severity of usability iss
 
 Ratings are displayed in parentheses after each usability issue.
 
-## Website 1: [Mayo Clinic](https://www.mayoclinic.org/)
+## Website 1: [The Department of Economic and Social Affairs Sustainable Development](https://sdgs.un.org/)
 
 ### About
-[Mayo Clinic](https://www.mayoclinic.org/) is a non-profit American medical organization dedicated to clinical practice, education, and research, and whose location in Minnesota has been recognized as the best hospital of 2020-2021 by U.S. News & World Report. Mayo Clinic is a trusted source of medical information about diseases and conditions, possible causes for symptoms, drugs and supplements, tests and procedures, and healthy living. The website is also used by patients to make appointments, access their patient account, and find information about receiving care. 
+[The Department of Economic and Social Affairs (DESA) Sustainable Development](https://sdgs.un.org/) is a department run by the United Nations, an intergovernmental organization made up of 193 member states committed to maintaining peace, dignity, and equality on a healthy planet. Based on a global survey, conducted by international research agency Glocalities, indicates that the United Nations is trusted significantly more by the world population than any other international or governmental organization. 
 
-The richness of health information and breadth of features on the Mayo Clinic website can be both valuable and overwhelming. My goal is to preserve the value while streamlining the user's ability to navigate throughout the website.
+In this sector, the United Nations defines 17 Sustainable Department Goals (SDG) for all. The purpose of this website is to help inspire and mobilize actions promoting the implementation of SDGs around the world. Using the latest data and estimates, the annual SDG report provides an overview of the world’s implementation efforts to date. 
+
 
 ### Heuristic Evaluation
 

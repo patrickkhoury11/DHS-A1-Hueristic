@@ -2,7 +2,7 @@
 
 ## Assignment 1: Heuristic Evaluation
 
-Patrick Khoury | DH110 | Spring 2021
+Patrick Khoury | DH110 | Fall 2022
 
 ### About the project
 

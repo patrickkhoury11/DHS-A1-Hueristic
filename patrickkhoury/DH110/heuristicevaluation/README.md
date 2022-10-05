@@ -1,6 +1,6 @@
-# Sustainable Cities and Communities
-
-## Assignment 1: Heuristic Evaluation
+# Assignment 1: Heuristic Evaluation
+## Tentative Title: Social Media for Sustainable Development
+## Topic of Interest: Sustainable Cities and Communities
 
 Patrick Khoury | DH110 | Fall 2022
 

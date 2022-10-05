@@ -64,7 +64,6 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Optimize search results so that they are relevant to sustainable development only.*
 
 * Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word (2)
-![Appointment Request Progress Capture](../Images/appointment-request-progress-2.PNG)
 
 > *Recommendation: Display results as the user types. This allows the user to find the information they were looking for much easier and helps them stay engaged.*
 

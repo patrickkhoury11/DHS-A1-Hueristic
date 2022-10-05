@@ -67,29 +67,31 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 * Furthermore, the recommended results shown are mostly completely unrelated to sustainable development, which doesn't help the user navigate the website or effectively find information about the topic. (2)
 
+> *Recommendation: Display results as the user types so that the user stays engaged, making it more likely they will continue to explore the site to find the information they need. Optimize search results so that they are relevant to health and medical information.*
+
 <p align="center">
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
 </p>
 
-* Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word (2):
+* Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word (2)
 ![Appointment Request Progress Capture](../Images/appointment-request-progress-2.PNG)
 
 > *Recommendation: Don't make the whole page blue at each major step; keep the page gray/white to ensure contrast in the progress tracker. Also, create a visual representation of progress by numbering the steps and including arrows. Implement a progress bar that slides forward as the user completes the information.*
 
 #### 2. Match Between System and the Real World
-* The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals the numbers represent are not known to the vast majority of viewers. To be able to view the meaning behind each number, the user would have to scroll down to the very bottom of the website to see the info. (2):
+* The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals the numbers represent are not known to the vast majority of viewers. To be able to view the meaning behind each number, the user would have to scroll down to the very bottom of the website to see the info. (2)
 
 <p align="center">
   <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
 </p>
 
-* Additionally, the navigation bar uses acronyms that first-time visitors might be unfamiliar with. For example, the terms “HLPF” and “SIDS” are items featured on the navigation menu, but do not provide any insight on what those letters stand for. (2):
+* Additionally, the navigation bar uses acronyms that first-time visitors might be unfamiliar with. For example, the terms “HLPF” and “SIDS” are items featured on the navigation menu, but do not provide any insight on what those letters stand for. (2)
 
 <p align="center">
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
 </p>
 
-> *Recommendation: Consider modifying the placeholder text based on what would be most helpful for users' existing habits. Perhaps something like 'Search health topics, conditions, doctors' or whatever is most relevant to most users.*
+> *Recommendation: “Use words, phrases, and concepts familiar to the user, rather than internal jargon” (Nielsen Norman Group).*
 
 #### 3. User Control and Freedom
 * There are no “return to last page” buttons throughout the website. To be able to backtrack to the last page, the viewer would have to hit the search engine’s “click to go back” arrow. However this feature does not always work exactly at its intended use in this website. Some sub-pages aren’t registered as distinct pages according to the search engine, and the click to go back arrow skips pages at times. The mechanic on this site is rather faulty and can be frustrating to viewers attempting to go back and forth between pages. (2)
@@ -97,7 +99,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Don't erase the user's query after they hit Search so that they can slightly modify their query if necessary.*
 
 #### 4. Consistency and Standards
-* Their page for COVID-19 and vaccine information is completely different from their normal website, which could confuse users because it seems like a separate website. Also, the navigation is hidden in a hamburger menu on the top-right, which is both less discoverable and unconventional. (3)
+* Most sections on this website follow completely different formats. This makes it difficult for users to navigate through the pages to find relevant information, as the design is inconsistent across the platform. (3)
 
 <p align="center">
   <img src="../Images/homepage.PNG" alt="Mayo Clinic homepage"/>
@@ -106,12 +108,17 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 > *Recommendation: Maintain consistency with the main website so that users understand they are still in the same space. Show navigation at the top rather than hiding it in the hamburger menu.*
 
-* When you click Request Appointment, you cannot go back to the homepage by clicking the logo on the top-left corner, which can be frustrating for many users who expect that they can orient to the homepage by clicking the logo. I observed the same pattern across random pages of the website (including the Trouble Signing Up? page for account creation). The logo at the top left corner is probably the most common design pattern and needs to be upheld throughout the website. (3)
+* The HLPF page features a completely different menu than the majority of the website, with different navigation options. This does not allow you to go back to any of the primary sections of the website. This issue is particularly frustrating, as the HLPF page is featured as a key proponent of the Sustainable Development website, but has no option to navigate to any of the other pages. (2)
+
+> *Recommendation: Make sure that clicking the logo will go back to the homepage on every page. In general, make sure every functionality is consistent throughout the website so that users don't get 'lost' on a certain page.*
+
+* The logo on the top-left corner on several pages does not take you to the homepage by clicking it. Instead, it takes you to a language prompt which directs you to the standard UN page. To get back to the Sustainable Development section, you’d have to navigate through the “Our Work” section on the navigation bar. This can be frustrating to those who intend to reach the homepage by clicking the logo in the top left. This isn’t an unreasonable action of the user, as many of the pages function in this correct way. (3)
+
 
 > *Recommendation: Make sure that clicking the logo will go back to the homepage on every page. In general, make sure every functionality is consistent throughout the website so that users don't get 'lost' on a certain page.*
 
 #### 5. Error Prevention
-* Mayo Clinic is currently not accepting online requests for COVID-19 vaccine appointments. Although they provide a warning message above the button to request an appointment, users can easily skip this message. In the following modal window, users would likely randomly click "Yes" or "No" without regard to what the message is because they are habituated to getting out of the dialog window as fast as possible. (2)
+* As mentioned above, the possible recommendations in the search bar are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. This is an error-prone condition, as the two outcomes from clicking on one of these flawed suggestions are not being within the character limit or getting an error message saying no matching results. (2)
 
 <p align="center">
   <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
@@ -120,7 +127,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Get rid of the modal window and provide radio buttons to get users to make a deliberate choice between "Yes" and "No". It would also be helpful to display the error message again if the user clicks "Yes" rather than force them onto a page that doesn't explain the error they made.*
 
 #### 6. Recognition Rather Than Recall
-* On the health information page, the user must search by first letter (A-Z). This makes it difficult for users who may not know or remember the name of the disease or condition to access information about it. (2)
+* The suggestions given in the search bar are not relevant to the website whatsoever. The majority of key terms, goals, etc that are relevant to the website do not come up as suggestions in the search bar. This makes it difficult for users who may not know or remember the name of an event, goal, etc to access information about it since they have to enter it verbatim. (2)
 
 <p align="center">
   <img src="../Images/diseases-and-conditions.PNG" alt="Diseases and conditions page" width="500px"/>
@@ -129,13 +136,13 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Provide some conditions or diseases that are often treated at Mayo Clinic. Also guide users to the symptom checker, where they can select from a list of symptoms and generate predicted diseases and conditions associated with those symptoms. In general, Mayo Clinic should better emphasize their symptom checker feature because it can be a great resource for those concerned with their health, like many seniors. (However, emphasize that it is necessary to check with a healthcare provider.)*
 
 #### 7. Flexibility and Efficiency of Use
-* Because the magnifying glass is within the search box, the user may not recognize that there is another way to trigger the search action (other than Enter). (1)
+* The accessibility of the navigation bar can be a pain point to some viewers. It is relatively small and overshadowed by the large photos and graphics. Users must scroll all the way to the top to utilize it, as the website doesn’t make use of the “floating/sticky” feature typically incorporated in most websites. Additionally, this website doesn’t feature  a “scroll to top” button, which makes accessing the bar even more difficult. (1)
 
 ![Homepage of Mayo Clinic showing search box](../Images/homepage.PNG)
 
 > *Recommendation: Create a separate button for searching that includes the magnifying glass so that the user easily recognizes that it can be clicked to Search.*
 
-* On the symptom checker, the user needs to select from a large list of symptoms, which is cumbersome and overwhelming. (3)
+* Another pain point on the site is the lack of organization for the news feed. The “NEWS” tab leads users to a page with 8 articles, the top 2 of which have misaligned thumbnails. While there appear to be more pages of news/articles, the site requires you to step through the pages one by one using arrows. However, the site neither shows how many pages there are in total, nor does it allow you to easily jump between pages. If a user was on page 10 of the News feed and wanted to go back to the first page, they would have to click the back arrow 9 times. This pain point goes against Nielsen heuristic of flexibility and efficiency of use. (3)
 ![Symptom Checker Step 1 Capture](../Images/symptom-checker-step-1.PNG)
 
 > *Recommendation: Keep the list so that users can just recognize and click on recommendations, but implement a search feature at the top so that users can have the option to efficiently find the symptom they are experiencing. Also, group the symptoms into different categories to help users find the symptom they are looking for more easily.*
@@ -145,7 +152,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Make it possible to access the drop-down by clicking the name of the category.*
 
 #### 8. Aesthetic and Minimalist Design
-* Because Mayo Clinic's website is very large, it can be difficult to consolidate all the information while ensuring the website is usable. However, there are some unnecessary elements that visually clutter the website. For instance, in the first dropdown of the navigation menu, there are many different links that are somewhat unnecessary - Clinical Trials is already under "Research" (it also makes more sense there), and "Digital Health Care" is almost the same thing as "Patient Online Services" to users (they only need to include one of these). (3)
+* This website features additional graphics and information not relevant to the general topic. Examples of this include the home page, event pages, the news tab, etc. Although aesthetically pleasing in some instances, many of the graphics take attention away from the pertinent information and are a bit overwhelming for someone simply trying to get relevant info (3)
 
 <p align="center">
   <img src="../Images/nav-care-at-mayo-clinic.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
@@ -165,14 +172,14 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 > *Recommendation: Increase font sizes and increase contrast of the fonts (in this case, make them darker) to make them readable for seniors and other visually impaired individuals. Create a design guideline to ensure that all font sizes and styles are consistent throughout the website.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* If the user clicks "Yes" in the modal window asking if they are requesting a COVID-19 vaccine, they are directed to another page that doesn't immediately explain why they weren't directed to the appointment-making process. Instead, the page they land on is essentially a general About page for COVID-19 vaccines. (2)
+* FIGURE THIS OUT (2)
 
 ![After clicking Yes in the modal window box](../Images/clicked-yes.PNG)
 
 > *Recommendation: Immediately explain why they can't make an appointment for COVID-19 vaccines at the time. Make sure the message is visible (e.g. in red and/or bold).*
 
 #### 10. Help and Documentation
-* If the user is on the help page, they want detailed information relevant to them. On Mayo Clinic's FAQ page on making appointments, there is simply a huge wall of text that the user must scroll through to find a question they *might* be looking for. (2)
+* This website doesn’t feature a help page or FAQ, only a search bar. I believe a help page or FAQ section would be extremely beneficial to all who view the website. Furthermore, the added features would help mitigate other issues, such as the search bar, as most of the information on this site is not easily accessible to a first time viewer. (3)
 
 <p align="center">
   <img src="../Images/appointment-faq.PNG" alt="Appointment FAQ page" width="500px"/>

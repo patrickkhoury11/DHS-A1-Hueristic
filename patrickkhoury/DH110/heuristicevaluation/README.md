@@ -55,7 +55,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* As you type in the search bar, the possible recommendations are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. Upon clicking on one of these suggestions, the site fed back a message stating that they were too long for the search bar character limit. After finding one within the character limit, I got a message stating that there were no matching results.These suggestions are constant for every letter in the alphabet. (3):
+* As you type in the search bar, the possible recommendations are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. Upon clicking on one of these suggestions, the site fed back a message stating that they were too long for the search bar character limit. After finding one within the character limit, I got a message stating that there were no matching results. These suggestions are constant for every letter in the alphabet. (3)
 
 
 <p align="center">
@@ -65,7 +65,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 > *Recommendation: Display results as the user types so that the user stays engaged, making it more likely they will continue to explore the site to find the information they need. Optimize search results so that they are relevant to health and medical information.*
 
-* Furthermore, the recommended results shown are mostly completely unrelated to sustainable development, which doesn't help the user navigate the website or effectively find information about the topic. (2):
+* Furthermore, the recommended results shown are mostly completely unrelated to sustainable development, which doesn't help the user navigate the website or effectively find information about the topic. (2)
 
 <p align="center">
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>

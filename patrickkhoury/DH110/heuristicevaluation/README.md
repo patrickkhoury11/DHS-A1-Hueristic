@@ -63,11 +63,11 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
   <img src="../Images/search-query.png" alt="Search query irrelevant results" width = "300px"/>
 </p>
 
-> *Recommendation: Display results as the user types so that the user stays engaged, making it more likely they will continue to explore the site to find the information they need. Optimize search results so that they are relevant to health and medical information.*
+> *Recommendation: Vet the system for all random letters, numbers, and symbols in the search bar. Cleaning this up will allow users to make relevant searches and find topics of interest more easily.*
 
 * Furthermore, the recommended results shown are mostly completely unrelated to sustainable development, which doesn't help the user navigate the website or effectively find information about the topic. (2)
 
-> *Recommendation: Display results as the user types so that the user stays engaged, making it more likely they will continue to explore the site to find the information they need. Optimize search results so that they are relevant to health and medical information.*
+> *Recommendation: Optimize search results so that they are relevant to sustainable development only.*
 
 <p align="center">
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
@@ -76,10 +76,12 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 * Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word (2)
 ![Appointment Request Progress Capture](../Images/appointment-request-progress-2.PNG)
 
-> *Recommendation: Don't make the whole page blue at each major step; keep the page gray/white to ensure contrast in the progress tracker. Also, create a visual representation of progress by numbering the steps and including arrows. Implement a progress bar that slides forward as the user completes the information.*
+> *Recommendation: Display results as the user types. This allows the user to find the information they were looking for much easier and helps them stay engaged.*
 
 #### 2. Match Between System and the Real World
 * The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals the numbers represent are not known to the vast majority of viewers. To be able to view the meaning behind each number, the user would have to scroll down to the very bottom of the website to see the info. (2)
+
+> *Recommendation: Write out the actual SDG for each article and event rather than displaying it as a number. This will enhance viewer comprehension, as it is impossible to expect new viewers to understand what each number represents.*
 
 <p align="center">
   <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
@@ -91,31 +93,30 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
 </p>
 
-> *Recommendation: “Use words, phrases, and concepts familiar to the user, rather than internal jargon” (Nielsen Norman Group).*
+> *Recommendation: As stated by Jakob Nielson himself, “use words, phrases, and concepts familiar to the user, rather than internal jargon”*
 
 #### 3. User Control and Freedom
 * There are no “return to last page” buttons throughout the website. To be able to backtrack to the last page, the viewer would have to hit the search engine’s “click to go back” arrow. However this feature does not always work exactly at its intended use in this website. Some sub-pages aren’t registered as distinct pages according to the search engine, and the click to go back arrow skips pages at times. The mechanic on this site is rather faulty and can be frustrating to viewers attempting to go back and forth between pages. (2)
 
-> *Recommendation: Don't erase the user's query after they hit Search so that they can slightly modify their query if necessary.*
+> *Recommendation: Add a "review to last page button" or register sub-pages as distinct pages with differing URLs so the "click to go back" arrow on the top left of the search engine allows you to view the previous page.*
 
 #### 4. Consistency and Standards
-* Most sections on this website follow completely different formats. This makes it difficult for users to navigate through the pages to find relevant information, as the design is inconsistent across the platform. (3)
+* Most sections on this website follow completely different formats. This makes it difficult for users to navigate through the pages to find relevant information, as the design is inconsistent across all pages and subpages. (2)
 
 <p align="center">
   <img src="../Images/homepage.PNG" alt="Mayo Clinic homepage"/>
   <img src="../Images/covid-19-page.PNG" alt="Mayo Clinic COVID-19 page"/>
 </p>
 
-> *Recommendation: Maintain consistency with the main website so that users understand they are still in the same space. Show navigation at the top rather than hiding it in the hamburger menu.*
+> *Recommendation: Maintain some form of consistency within each page in the main website, so that users are able to navigate throughout the website without any issue.*
 
 * The HLPF page features a completely different menu than the majority of the website, with different navigation options. This does not allow you to go back to any of the primary sections of the website. This issue is particularly frustrating, as the HLPF page is featured as a key proponent of the Sustainable Development website, but has no option to navigate to any of the other pages. (2)
 
-> *Recommendation: Make sure that clicking the logo will go back to the homepage on every page. In general, make sure every functionality is consistent throughout the website so that users don't get 'lost' on a certain page.*
+> *Recommendation: Maintain consistency within all branches of the main website so that users are able to navigate understand they are still in the same space. Keep the same navigation options for all pages within the main website, so users can navigate freely without any issues.*
 
 * The logo on the top-left corner on several pages does not take you to the homepage by clicking it. Instead, it takes you to a language prompt which directs you to the standard UN page. To get back to the Sustainable Development section, you’d have to navigate through the “Our Work” section on the navigation bar. This can be frustrating to those who intend to reach the homepage by clicking the logo in the top left. This isn’t an unreasonable action of the user, as many of the pages function in this correct way. (3)
 
-
-> *Recommendation: Make sure that clicking the logo will go back to the homepage on every page. In general, make sure every functionality is consistent throughout the website so that users don't get 'lost' on a certain page.*
+> *Recommendation: Make sure that clicking the logo will go back to the Sustainable Development homepage on every page within the website. Maintain consistency with functionalities so users don't get 'lost' on a certain page and are always able to return to the homepage.*
 
 #### 5. Error Prevention
 * As mentioned above, the possible recommendations in the search bar are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. This is an error-prone condition, as the two outcomes from clicking on one of these flawed suggestions are not being within the character limit or getting an error message saying no matching results. (2)

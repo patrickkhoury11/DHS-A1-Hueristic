@@ -153,60 +153,36 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 #### 1. Visibility of System Status
 * Yale’s School of Art website unfortunately displays inconsistent feedback indicators for user action, perhaps as a symptom of its mish-mash of creators. On the site, the user hovering their cursor over certain links results in a feedback indicator of some kind; however, not only are the indicators inconsistent with one another, some links lack feedback indicators altogether. For example, in some cases, clickable links turn blue when the user navigates their cursor over them; in other cases, hovering the cursor over calendar events highlights and shakes the event. In both of these instances, the feedback provided leads the user to believe that clinking on the link or even would lead to a subpage on the site or to a different site altogether. In addition, some links are denoted with two arrows “>>” and some are denoted with just one “>”. Certainly, there is room for improvement in standardizing the feedback so as to ensure the user is clear about what the indicators mean. The potential user confusion due to inconsistency is only further compounded by the fact that not all links on the site have appropriate feedback for user action. Some links do not highlight or turn blue when the user hovers their cursor over it, potentially leading to issues with users not knowing that interacting with that link would potentially lead them to a subpage or different site -- they don’t appear to be “clickable” links. (3)
 
-<p align="center">
-  <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
-</p>
-
-> *Recommendation: Make sure that there is some kind of feedback (e.g. color change) when the cursor hovers over each menu item.*
+> *Recommendation: Ensure that feedback indicators are standardized across the site: all links should turn blue when the user hovers over them and be denoted by the double-arrow “>>” in order to create predictable interactions and build up user trust in the product.*
 
 #### 2. Match Between System and the Real World
 *  The home page and many others use acronyms that first-time visitors might be unfamiliar with. For example, the acronym “SOA” is featured largely on the menu, but does not provide any insight on what those letters stand for. (1)
 
-<p align="center">
-  <img src="../Images/community-health-center-icons.PNG" alt="Community Health Center icons"/>
-</p>
-
-*Recommendation: “use words, phrases, and concepts familiar to the user, rather than internal jargon” (Nielsen Norman Group). (see examples [here](https://thenounproject.com/term/mental-health/3306335/) and [here](https://thenounproject.com/search/?q=medical&i=2468231)). Make sure icon styles are consistent as well.*
+*Recommendation: “Replace the “SOA” acronym with the spelled out School of Art name, as many first-time site visitors would not remember what the acronym stands for. School of Art is not too long to spell out; furthermore, it is central to understanding the website, and as such, it is important to not assume that users are familiar with the acronym.*
 
 #### 3. User Control and Freedom
 * Does not promote user control and freedom to back out of processes -- for example, when selecting “Editor Details” within the Community Bulletin Board space, the “Editor Details” box enlarges and changes to reflect the respective editors’ names and note who has editor access. However, there is no clear way to exit that change: no cancel, undo, or “X” button to return to the original formatting. This is especially problematic when the enlarged size of the box containing the editors’ names covers up information that was previously readable. One can exit this interaction by clicking outside of the box, but this revert function is not clearly labeled and discoverable.
 
-> *Recommendation: Test users to see what the right timing for carousels would be. There should be enough time for users to read the text and process the information on each image. Use bigger arrows so that users can easily click them, and make sure the carousel is responsive to clicks. Add a visual indicator to show where the user is in the image gallery.*
+> *Recommendation: Make sure that the revert function is clearly labeled within the enlarged “Editor Details” box via an “X” cancel button in order to increase user control and freedom.*
 
 #### 4. Consistency and Standards
-* There is no proper organization of the elements on the website. They are clustered together with no order of hierarchy and importance. (3)
-
-<p align="center">
-  <img src="../Images/nav-bar.PNG" alt="Top Navigation Menu"/>
-</p>
-
-> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+* There is no proper organization of the elements on the website. They are clustered together with no order of hierarchy or importance. (3)
 
 * The inconsistent use of colors, fade effects, borders, and font styles (uppercase, lowercase, italicized, bold, underlined, and regular font) is distracting to say the very least. It makes the website practically unusable. (3)
 
-> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+> *Recommendation: Although the mis-matched nature of the website is to be expected due to the collaborative design effort, it is still important to ensure that the design does not take away from the user experience. In order to remedy this lack of organization while still keeping with the original theme / character of the website, a potential recommendation would be to take on a more traditional approach, but feature students art and achievements on the site. This would concur with the heuristic principles layed out by Jakob Nielson while maintaining the character and theme of art and creativity.*
 
 * Inconsistent acronym usage “SoA in the world Calendar” in one place and right below it is “School of Arts in the world Calendar.” 
 
-> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+> *Recommendation: Keep verbiage consistent throughout the website to avoid confusing users.*
 
 #### 5. Error Prevention
 * Website crashed often when I was navigating through it. "The server encountered an internal error or misconfiguration and was unable to complete your request. Please contact the server administrator, johannes.deyoung@yale.edu and inform them of the time the error occurred, and anything you might have done that may have caused the error. More information about this error may be available in the server error log." (3)
-
-<p align="center">
-  <img src="../Images/behavioral-health-contact.PNG" alt="Contact information for Behavioral Health" width="550px"/>
-  
-  <img src="../Images/dental-clinic-contact.PNG" alt="Contact information for Dental Clinic" width="550px"/>
-</p>
 
 > *Recommendation: Put the tabs above the content so that users know what information is relevant to which department. Put the contact information in a consistent and easy-to-find location for each tap. Alternatively, direct users to a contact page where they can easily find where they should contact.*
 
 #### 6. Recognition Rather Than Recall
 * NEED TO FIGURE OUT (2)
-
-<p align="center">
-  <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
-</p>
 
 > *Recommendation: Connect the dropdown box with the menu item title to show that the dropdown is under that header.*
 
@@ -217,15 +193,8 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 
 * The user experience of the community bulletin board can be better worked on. The community board should be well simplified so it does not overwhelm the user and can also carry the same experience as a real board. (3)
 
-<p align="center">
-  <img src="../Images/csc-homepage.PNG" alt="CSC homepage"/>
-</p>
-
-
 #### 8. Aesthetics and Minimalist Design
 * Throughout the website, we see an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects, low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. The Community Health Center homepage, in particular, demonstrates this well. (3)
-
-![CSC Community Health Center homepage](../Images/community-health-center-homepage.PNG)
 
 > *Recommendation: Firstly, we need to fix the web developer mistakes so that the features are at least visible. For instance, the language switch needs to be fully visible so that users know they can switch the language of the website (important for the large, nonnative English-speaking user base). Next, de-clutter the website by reorganizing the information presented. For example, it is unnecessary to place the Community Health Center description at the beginning of every tab's page; use that real estate for the menu itself. Lastly, make sure that a design guideline is used so that font sizes, spacing, and colors are appropriate for seniors and consistent throughout.*
 

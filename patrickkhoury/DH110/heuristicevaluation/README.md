@@ -55,7 +55,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* As you type in the search bar, the possible recommendations are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. Upon clicking on one of these suggestions, the site fed back a message stating that they were too long for the search bar character limit. After finding one within the character limit, I got a message stating that there were no matching results. These suggestions are constant for every letter in the alphabet. (3)
+* As you type in the search bar, the given suggestions are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. Upon clicking on one of these suggestions, the site fed back a message stating that they were too long for the search bar character limit. After finding one within the character limit, I got a message stating that there were no matching results. These autocomplete recommendations are constant for every letter in the alphabet. (3)
 
 > *Recommendation: Vet the system for all random letters, numbers, and symbols in the search bar. Cleaning this up will allow users to make relevant searches and find topics of interest more easily.*
 
@@ -63,7 +63,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 > *Recommendation: Optimize search results so that they are relevant to sustainable development only.*
 
-* Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word (2)
+* Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word. (2)
 
 > *Recommendation: Display results as the user types. This allows the user to find the information they were looking for much easier and helps them stay engaged.*
 
@@ -89,17 +89,17 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 > *Recommendation: Maintain some form of consistency within each page in the main website, so that users are able to navigate throughout the website without any issue.*
 
-* The HLPF page features a completely different menu than the majority of the website, with different navigation options. This does not allow you to go back to any of the primary sections of the website. This issue is particularly frustrating, as the HLPF page is featured as a key proponent of the Sustainable Development website, but has no option to navigate to any of the other pages. (2)
+* The HLPF page features a completely different menu than the majority of the website, with different navigation options. This does not allow you to go back to any of the primary sections of the website. This issue is particularly frustrating, as the HLPF page is featured as a key proponent of the Sustainable Development website, but has no option to navigate to any of the other pages within the site. (2)
 
 > *Recommendation: Maintain consistency within all branches of the main website so that users are able to navigate understand they are still in the same space. Keep the same navigation options for all pages within the main website, so users can navigate freely without any issues.*
 
-* The logo on the top-left corner on several pages does not take you to the homepage by clicking it. Instead, it takes you to a language prompt which directs you to the standard UN page. To get back to the Sustainable Development section, you’d have to navigate through the “Our Work” section on the navigation bar. This can be frustrating to those who intend to reach the homepage by clicking the logo in the top left. This isn’t an unreasonable action of the user, as many of the pages function in this correct way. (3)
+* The logo on the top-left corner on several pages does not take you to the homepage by clicking it. Instead, it takes you to a language prompt which directs you to the standard UN page. To get back to the Sustainable Development section, you’d have to navigate through the “Our Work” section on the navigation bar. This can be frustrating to those who intend to reach the homepage by clicking the logo in the top left. This isn’t an unreasonable action of the user, as many of the pages function in this correct way. (2)
 
 > *Recommendation: Make sure that clicking the logo will go back to the Sustainable Development homepage on every page within the website. Maintain consistency with functionalities so users don't get 'lost' on a certain page and are always able to return to the homepage.*
 
 
 #### 5. Error Prevention
-* As mentioned above, the possible recommendations in the search bar are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. This is an error-prone condition, as the two outcomes from clicking on one of these flawed suggestions are not being within the character limit or getting an error message saying no matching results. (2)
+* As mentioned above, the possible recommendations in the search bar are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. This is an error-prone condition, as the two outcomes from clicking on one of these flawed suggestions are not being within the character limit or getting an error message saying no matching results. (3)
 
 > *Recommendation: Get rid of all uncomprehensible suggestions in the search bar. This turned the search bar, a tool utilized to mitigate errors and naviagte the website, into an error-prone feature. Fixing its issues will solve this error prevention issue.*
 
@@ -115,7 +115,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 > *Recommendation: Implement a "floating" navigation bar and a "scroll to top button" to reduce the scrolling required on the site, making the platform more accessible to all users.*
 
-* Another pain point on the site is the lack of organization for the news feed. The “NEWS” tab leads users to a page with 8 articles, the top 2 of which have misaligned thumbnails. While there appear to be more pages of news/articles, the site requires you to step through the pages one by one using arrows. However, the site neither shows how many pages there are in total, nor does it allow you to easily jump between pages. If a user was on page 10 of the News feed and wanted to go back to the first page, they would have to click the back arrow 9 times. (3)
+* Another pain point on the site is the lack of organization for the news feed. The “NEWS” tab leads users to a page with 8 articles, the top 2 of which have misaligned thumbnails. While there appear to be more pages of news/articles, the site requires you to step through the pages one by one using arrows. However, the site neither shows how many pages there are in total, nor does it allow you to easily jump between pages. If a user was on page 10 of the News feed and wanted to go back to the first page, they would have to click the back arrow 9 times. (2)
 
 > *Recommendation: Implement a navigation bar on the bottom of the News tab page, allowing viewers to flip through any and all existing articles without having to click the back or forward arrow more than once.*
 
@@ -137,9 +137,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 ### Overall Assessment
 
-The UN Department of Economic and Social Affairs (DESA) Sustainable Development.
-
-Mayo Clinic website is very large and contains a lot of information, so the main usability issues involve organizing the content and navigation in a way that is understandable for users, especially in terms of consistency & standards, flexibility & efficiency of use, and aesthetics & minimalist design. From an accessibility standpoint, they need to increase their font sizes and contrast between text and background, especially in the main navigation menu but also in other areas of their website. 
+The UN Department of Economic and Social Affairs (DESA) Sustainable Development website was not terrible by any means. However, the high standards I upheld for the intergovernmental organization were not met. There were several visibility of system status issues, mainly to do with the search bar. The website used unfamiliar wording and acronyms, and the site suffered from its many usability issues. Some of these issues include a faulty homepage logo, poor naviagation bar choices, no effective back button, etc. Perhaps the most pressing issue is the search bar suggestions. This issue is error inducing and quite frustrating. Not only does it recommend random combinations of numbers, symbols, and letters; but it also does not suggest anything remotely relevant to the topic of the website. Some of these issues could have been mitigated if the creators had implemented a HELP page of FAQ section, however this was not the case. 
 
 
 
@@ -158,12 +156,12 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 > *Recommendation: Ensure that feedback indicators are standardized across the site: all links should turn blue when the user hovers over them and be denoted by the double-arrow “>>” in order to create predictable interactions and build up user trust in the product.*
 
 #### 2. Match Between System and the Real World
-*  The home page and many others use acronyms that first-time visitors might be unfamiliar with. For example, the acronym “SOA” is featured largely on the menu, but does not provide any insight on what those letters stand for. (1)
+*  The home page and many others use acronyms that first-time visitors might be unfamiliar with. For example, the acronym “SOA” is featured largely on the menu, but does not provide any insight on what those letters stand for. (2)
 
 *Recommendation: “Replace the “SOA” acronym with the spelled out School of Art name, as many first-time site visitors would not remember what the acronym stands for. School of Art is not too long to spell out; furthermore, it is central to understanding the website, and as such, it is important to not assume that users are familiar with the acronym.*
 
 #### 3. User Control and Freedom
-* Does not promote user control and freedom to back out of processes -- for example, when selecting “Editor Details” within the Community Bulletin Board space, the “Editor Details” box enlarges and changes to reflect the respective editors’ names and note who has editor access. However, there is no clear way to exit that change: no cancel, undo, or “X” button to return to the original formatting. This is especially problematic when the enlarged size of the box containing the editors’ names covers up information that was previously readable. One can exit this interaction by clicking outside of the box, but this revert function is not clearly labeled and discoverable.
+* Does not promote user control and freedom to back out of processes -- for example, when selecting “Editor Details” within the Community Bulletin Board space, the “Editor Details” box enlarges and changes to reflect the respective editors’ names and note who has editor access. However, there is no clear way to exit that change: no cancel, undo, or “X” button to return to the original formatting. This is especially problematic when the enlarged size of the box containing the editors’ names covers up information that was previously readable. One can exit this interaction by clicking outside of the box, but this revert function is not clearly labeled and discoverable. (3)
 
 > *Recommendation: Make sure that the revert function is clearly labeled within the enlarged “Editor Details” box via an “X” cancel button in order to increase user control and freedom.*
 
@@ -174,7 +172,7 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 
 > *Recommendation: Although the mis-matched nature of the website is to be expected due to the collaborative design effort, it is still important to ensure that the design does not take away from the user experience. In order to remedy this lack of organization while still keeping with the original theme / character of the website, a potential recommendation would be to take on a more traditional approach, but feature students art and achievements on the site. This would concur with the heuristic principles layed out by Jakob Nielson while maintaining the character and theme of art and creativity.*
 
-* Inconsistent acronym usage “SoA in the world Calendar” in one place and right below it is “School of Arts in the world Calendar.” 
+* Inconsistent acronym usage “SoA in the world Calendar” in one place and right below it is “School of Arts in the world Calendar.” (2)
 
 > *Recommendation: Keep verbiage consistent throughout the website to avoid confusing users.*
 
@@ -191,7 +189,9 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 
 > *Recommendation: Implement a search function to allow users another option to efficiently navigate through the website.*
 
-* The user experience of the community bulletin board can be better worked on. The community board should be well simplified so it does not overwhelm the user and can also carry the same experience as a real board. (3)
+* The user experience of the community bulletin board was far too complex for the creators to expect users to contribute to. (2)
+
+> *Recommendation: The community board should be well simplified so it does not overwhelm the user and can also carry the same experience as a real board.*
 
 #### 8. Aesthetics and Minimalist Design
 * Throughout the website, viewers are forced to browse on an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects. There are a myriad of low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. This is apparent in every page on the website. This is concerning considering some of the pages present cruicial information and deadlines which shouldn't be missed. Two of these pages include the Community Health Center homepage and the student finance/tuition/financial aid pages. (3)
@@ -207,8 +207,6 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 
 #### 10. Help and Documentation
 * This website doesn’t feature a help page, FAQ, search bar, or any feature that provides additional help to the user. I believe all these features would be extremely beneficial to all who view the website. Furthermore, these added features would help mitigate other issues, such as searching for information in the atrociously organized and designed website. Most of the information on this site is not easily accessible to a first time viewer. (3)
-
-* A lot of information tends to be displayed via images and brochures, but it is difficult to find them. (3)
 
 > *Recommendation: Include a HELP page, FAQ section, and a search bar in this website. The website is meant to be accessed by those wishing to attend / already do attend one of the most presigous institutions in the nation. These features will help mitigate the other obvious shortcomings in the design of the website. In this instance, these features are absolutely necessary.*
 

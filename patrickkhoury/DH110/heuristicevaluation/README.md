@@ -143,7 +143,7 @@ The UN Department of Economic and Social Affairs (DESA) Sustainable Development 
 
 ## Website 2: [Yale University Art School](https://www.art.yale.edu/)
 
-![Yale University Art School Homepage](yaleschoolofart.png)
+![Yale University Art School Homepage](![yaleschoolofart](https://user-images.githubusercontent.com/114698093/194070556-71707bee-16ed-4db2-b610-594ce3c3bc5f.png))
 View the full site here: [Yale Art](https://www.art.yale.edu/)
 
 

@@ -57,56 +57,36 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 #### 1. Visibility of System Status
 * As you type in the search bar, the possible recommendations are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. Upon clicking on one of these suggestions, the site fed back a message stating that they were too long for the search bar character limit. After finding one within the character limit, I got a message stating that there were no matching results. These suggestions are constant for every letter in the alphabet. (3)
 
-
-<p align="center">
-  <img src="../Images/search-query-2.PNG" alt="Search query no immediate results" width = "300px"/>
-  <img src="../Images/search-query.png" alt="Search query irrelevant results" width = "300px"/>
-</p>
-
 > *Recommendation: Vet the system for all random letters, numbers, and symbols in the search bar. Cleaning this up will allow users to make relevant searches and find topics of interest more easily.*
 
 * Furthermore, the recommended results shown are mostly completely unrelated to sustainable development, which doesn't help the user navigate the website or effectively find information about the topic. (2)
 
 > *Recommendation: Optimize search results so that they are relevant to sustainable development only.*
 
-<p align="center">
-  <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
-</p>
-
 * Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word (2)
 ![Appointment Request Progress Capture](../Images/appointment-request-progress-2.PNG)
 
 > *Recommendation: Display results as the user types. This allows the user to find the information they were looking for much easier and helps them stay engaged.*
+
 
 #### 2. Match Between System and the Real World
 * The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals the numbers represent are not known to the vast majority of viewers. To be able to view the meaning behind each number, the user would have to scroll down to the very bottom of the website to see the info. (2)
 
 > *Recommendation: Write out the actual SDG for each article and event rather than displaying it as a number. This will enhance viewer comprehension, as it is impossible to expect new viewers to understand what each number represents.*
 
-<p align="center">
-  <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
-</p>
-
 * Additionally, the navigation bar uses acronyms that first-time visitors might be unfamiliar with. For example, the terms “HLPF” and “SIDS” are items featured on the navigation menu, but do not provide any insight on what those letters stand for. (2)
 
-<p align="center">
-  <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
-</p>
+> *Recommendation: As stated by Jakob Nielson himself, “use words, phrases, and concepts familiar to the user, rather than internal jargon.”*
 
-> *Recommendation: As stated by Jakob Nielson himself, “use words, phrases, and concepts familiar to the user, rather than internal jargon”*
 
 #### 3. User Control and Freedom
 * There are no “return to last page” buttons throughout the website. To be able to backtrack to the last page, the viewer would have to hit the search engine’s “click to go back” arrow. However this feature does not always work exactly at its intended use in this website. Some sub-pages aren’t registered as distinct pages according to the search engine, and the click to go back arrow skips pages at times. The mechanic on this site is rather faulty and can be frustrating to viewers attempting to go back and forth between pages. (2)
 
 > *Recommendation: Add a "review to last page button" or register sub-pages as distinct pages with differing URLs so the "click to go back" arrow on the top left of the search engine allows you to view the previous page.*
 
+
 #### 4. Consistency and Standards
 * Most sections on this website follow completely different formats. This makes it difficult for users to navigate through the pages to find relevant information, as the design is inconsistent across all pages and subpages. (2)
-
-<p align="center">
-  <img src="../Images/homepage.PNG" alt="Mayo Clinic homepage"/>
-  <img src="../Images/covid-19-page.PNG" alt="Mayo Clinic COVID-19 page"/>
-</p>
 
 > *Recommendation: Maintain some form of consistency within each page in the main website, so that users are able to navigate throughout the website without any issue.*
 
@@ -118,75 +98,43 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 > *Recommendation: Make sure that clicking the logo will go back to the Sustainable Development homepage on every page within the website. Maintain consistency with functionalities so users don't get 'lost' on a certain page and are always able to return to the homepage.*
 
+
 #### 5. Error Prevention
 * As mentioned above, the possible recommendations in the search bar are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. This is an error-prone condition, as the two outcomes from clicking on one of these flawed suggestions are not being within the character limit or getting an error message saying no matching results. (2)
 
-<p align="center">
-  <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
-</p>
+> *Recommendation: Get rid of all uncomprehensible suggestions in the search bar. This turned the search bar, a tool utilized to mitigate errors and naviagte the website, into an error-prone feature. Fixing its issues will solve this error prevention issue.*
 
-> *Recommendation: Get rid of the modal window and provide radio buttons to get users to make a deliberate choice between "Yes" and "No". It would also be helpful to display the error message again if the user clicks "Yes" rather than force them onto a page that doesn't explain the error they made.*
 
 #### 6. Recognition Rather Than Recall
 * The suggestions given in the search bar are not relevant to the website whatsoever. The majority of key terms, goals, etc that are relevant to the website do not come up as suggestions in the search bar. This makes it difficult for users who may not know or remember the name of an event, goal, etc to access information about it since they have to enter it verbatim. (2)
 
-<p align="center">
-  <img src="../Images/diseases-and-conditions.PNG" alt="Diseases and conditions page" width="500px"/>
-</p>
+> *Recommendation: Provide actual assistence within the search bar. Suggestions have the opportunity to guide users to particular items in the website that they are looking for. This new system would allow users to research and recognize topics they would like to learn more about, rather than being forced to recall the exact name and spelling to be able to utiize the search bar.*
 
-> *Recommendation: Provide some conditions or diseases that are often treated at Mayo Clinic. Also guide users to the symptom checker, where they can select from a list of symptoms and generate predicted diseases and conditions associated with those symptoms. In general, Mayo Clinic should better emphasize their symptom checker feature because it can be a great resource for those concerned with their health, like many seniors. (However, emphasize that it is necessary to check with a healthcare provider.)*
 
 #### 7. Flexibility and Efficiency of Use
-* The accessibility of the navigation bar can be a pain point to some viewers. It is relatively small and overshadowed by the large photos and graphics. Users must scroll all the way to the top to utilize it, as the website doesn’t make use of the “floating/sticky” feature typically incorporated in most websites. Additionally, this website doesn’t feature  a “scroll to top” button, which makes accessing the bar even more difficult. (1)
+* The accessibility of the navigation bar can be a pain point to some viewers. It is relatively small and overshadowed by the large photos and graphics. Users must scroll all the way to the top to utilize it, as the website doesn’t make use of the “floating” feature typically incorporated in most websites. Additionally, this website doesn’t feature  a “scroll to top” button, which makes accessing the bar even more difficult. (1)
 
-![Homepage of Mayo Clinic showing search box](../Images/homepage.PNG)
+> *Recommendation: Implement a "floating" navigation bar and a "scroll to top button" to reduce the scrolling required on the site, making the platform more accessible to all users.*
 
-> *Recommendation: Create a separate button for searching that includes the magnifying glass so that the user easily recognizes that it can be clicked to Search.*
+* Another pain point on the site is the lack of organization for the news feed. The “NEWS” tab leads users to a page with 8 articles, the top 2 of which have misaligned thumbnails. While there appear to be more pages of news/articles, the site requires you to step through the pages one by one using arrows. However, the site neither shows how many pages there are in total, nor does it allow you to easily jump between pages. If a user was on page 10 of the News feed and wanted to go back to the first page, they would have to click the back arrow 9 times. (3)
 
-* Another pain point on the site is the lack of organization for the news feed. The “NEWS” tab leads users to a page with 8 articles, the top 2 of which have misaligned thumbnails. While there appear to be more pages of news/articles, the site requires you to step through the pages one by one using arrows. However, the site neither shows how many pages there are in total, nor does it allow you to easily jump between pages. If a user was on page 10 of the News feed and wanted to go back to the first page, they would have to click the back arrow 9 times. This pain point goes against Nielsen heuristic of flexibility and efficiency of use. (3)
-![Symptom Checker Step 1 Capture](../Images/symptom-checker-step-1.PNG)
+> *Recommendation: Implement a navigation bar on the bottom of the News tab page, allowing viewers to flip through any and all existing articles without having to click the back or forward arrow more than once.*
 
-> *Recommendation: Keep the list so that users can just recognize and click on recommendations, but implement a search feature at the top so that users can have the option to efficiently find the symptom they are experiencing. Also, group the symptoms into different categories to help users find the symptom they are looking for more easily.*
-
-* Under Billing, clicking the name of a category doesn't display the drop-down menu, but rather takes you to another page, which can be disorienting. The user must click the + sign to the right of the name to get the drop-down menu, which also requires dexterity and is therefore less accessible for seniors. (3)
-
-> *Recommendation: Make it possible to access the drop-down by clicking the name of the category.*
 
 #### 8. Aesthetic and Minimalist Design
-* This website features additional graphics and information not relevant to the general topic. Examples of this include the home page, event pages, the news tab, etc. Although aesthetically pleasing in some instances, many of the graphics take attention away from the pertinent information and are a bit overwhelming for someone simply trying to get relevant info (3)
+* This website features additional graphics and information not relevant to the general topic. Examples of this include the home page, event pages, the news tab, etc. Although aesthetically pleasing in some instances, many of the graphics take attention away from the pertinent information and are a bit overwhelming for someone simply trying to get relevant info (1)
 
-<p align="center">
-  <img src="../Images/nav-care-at-mayo-clinic.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
-  <img src="../Images/nav-research.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
-</p>
+> *Recommendation: Cut down on the unnecessary images and draw focus to the relevant information. The page is run for the purpose of promoting sustainable development, but does not do a good job of drawing the readers to the important info.*
 
-> *Recommendation: Show only what is necessary in the navigation menu, and make sure the links are relevant to each category.*
-
-* The billing and payments page has a very cluttered and unappealing design, placing a lot of cognitive strain on the user. (3)
-
-![Billing and payments page](../Images/billing-and-payments.PNG)
-
-> *Recommendation: Clean up the page by putting more spacing between the words, using better hierarchy to organize the information, listing items out in bullet points rather than in paragraph form, and using more relevant and high-quality images for each category.*
-
-* Lastly, the font size on the homepage navigation (and in other random locations throughout the website is small and faint, making it inaccessible for individuals with visual impairments. (3)
-
-> *Recommendation: Increase font sizes and increase contrast of the fonts (in this case, make them darker) to make them readable for seniors and other visually impaired individuals. Create a design guideline to ensure that all font sizes and styles are consistent throughout the website.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* FIGURE THIS OUT (2)
+* I clicked through the entire website and couldn't find any unnecessary or unclear error messages. This website did not featrure many errors, the only error inducing condition I found was the faulty search bar recommendations. However, even with this error the website wrote out what was wrong in clear sentences and allowed users to recover very easily after committing the error. (0)
 
-![After clicking Yes in the modal window box](../Images/clicked-yes.PNG)
-
-> *Recommendation: Immediately explain why they can't make an appointment for COVID-19 vaccines at the time. Make sure the message is visible (e.g. in red and/or bold).*
 
 #### 10. Help and Documentation
 * This website doesn’t feature a help page or FAQ, only a search bar. I believe a help page or FAQ section would be extremely beneficial to all who view the website. Furthermore, the added features would help mitigate other issues, such as the search bar, as most of the information on this site is not easily accessible to a first time viewer. (3)
 
-<p align="center">
-  <img src="../Images/appointment-faq.PNG" alt="Appointment FAQ page" width="500px"/>
-</p>
-
-> *Recommendation: Hide the text under each question to make it easy for users to scan through the possible questions and choose only content they are interested in. Organize the questions in a logical way. Include a downward arrow next to each question to show that information about that question can be found if they click each title. Use bullet points and numbered lists whenever appropriate.*
+> *Recommendation: Include both a HELP page and FAQ section in this website. The website is meant to educate the population, and yet it does not feature any sections to mitigate the confusion their viewers are subject to. This is a missed opportunity to clarify important detais and answer common questions.*
 
 ### Overall Assessment
 

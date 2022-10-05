@@ -137,7 +137,9 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 
 ### Overall Assessment
 
-The Mayo Clinic website is very large and contains a lot of information, so the main usability issues involve organizing the content and navigation in a way that is understandable for users, especially in terms of consistency & standards, flexibility & efficiency of use, and aesthetics & minimalist design. From an accessibility standpoint, they need to increase their font sizes and contrast between text and background, especially in the main navigation menu but also in other areas of their website. 
+The UN Department of Economic and Social Affairs (DESA) Sustainable Development.
+
+Mayo Clinic website is very large and contains a lot of information, so the main usability issues involve organizing the content and navigation in a way that is understandable for users, especially in terms of consistency & standards, flexibility & efficiency of use, and aesthetics & minimalist design. From an accessibility standpoint, they need to increase their font sizes and contrast between text and background, especially in the main navigation menu but also in other areas of their website. 
 
 
 
@@ -177,14 +179,12 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 > *Recommendation: Keep verbiage consistent throughout the website to avoid confusing users.*
 
 #### 5. Error Prevention
-* Website crashed often when I was navigating through it. "The server encountered an internal error or misconfiguration and was unable to complete your request. Please contact the server administrator, johannes.deyoung@yale.edu and inform them of the time the error occurred, and anything you might have done that may have caused the error. More information about this error may be available in the server error log." (3)
+* Website crashed often when I was navigating through it. The message it gave off was, "The server encountered an internal error or misconfiguration and was unable to complete your request. Please contact the server administrator, johannes.deyoung@yale.edu and inform them of the time the error occurred, and anything you might have done that may have caused the error. More information about this error may be available in the server error log." The frequency of this error is quite concerning. It damages the credibility of the website and prevents users from accessing any parts. (3)
 
-> *Recommendation: Put the tabs above the content so that users know what information is relevant to which department. Put the contact information in a consistent and easy-to-find location for each tap. Alternatively, direct users to a contact page where they can easily find where they should contact.*
+> *Recommendation: Troubleshoot the internal error and find the cause of this mishap. I wouldn't be surprised if it had something to do with the unfathomable amount of graphics and animations, as they tend to make the website more glitchy.*
 
 #### 6. Recognition Rather Than Recall
-* NEED TO FIGURE OUT (2)
-
-> *Recommendation: Connect the dropdown box with the menu item title to show that the dropdown is under that header.*
+* I clicked through the entire website and couldn't find any instances where additional suggestions would minimize a user's memory load by giving them help in context. This website was very thorough, which I imagine is due to the sheer amount of people who worked on the site and the perspectives they bring. Although the design of the website made the suggestions hard to read, they were present and very helpful in navigating and gathering information from the website. (0)
 
 #### 7. Flexibility and Efficiency of Use
 * The navigation bar is hidden as a first-time user on the page may not easily locate it for easy navigation through the various sections of the website. (2)
@@ -194,26 +194,23 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 * The user experience of the community bulletin board can be better worked on. The community board should be well simplified so it does not overwhelm the user and can also carry the same experience as a real board. (3)
 
 #### 8. Aesthetics and Minimalist Design
-* Throughout the website, we see an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects, low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. The Community Health Center homepage, in particular, demonstrates this well. (3)
+* Throughout the website, viewers are forced to browse on an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects. There are a myriad of low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. This is apparent in every page on the website. This is concerning considering some of the pages present cruicial information and deadlines which shouldn't be missed. Two of these pages include the Community Health Center homepage and the student finance/tuition/financial aid pages. (3)
 
-> *Recommendation: Firstly, we need to fix the web developer mistakes so that the features are at least visible. For instance, the language switch needs to be fully visible so that users know they can switch the language of the website (important for the large, nonnative English-speaking user base). Next, de-clutter the website by reorganizing the information presented. For example, it is unnecessary to place the Community Health Center description at the beginning of every tab's page; use that real estate for the menu itself. Lastly, make sure that a design guideline is used so that font sizes, spacing, and colors are appropriate for seniors and consistent throughout.*
+* The homepage of the website is particularly bad. It bombards users with crazy colors, graphics, unreadable text, and too many options. It is a nightmare for first time viewers, incoming and returning students, parents, teachers, alumni, etc. The design and colors of the website creates accessibility issues for people who potentially want to apply to the school but may have visual impairments. The design exudes unprofessionalism, which is shocking coming from a world-renowed institution. (3)
 
-* The transparency of the tall fixed navigation menu dominates the layout of the page, and is very distracting. The menu is difficult to see and use, especially as users scroll down the page and there is text under the menu. (3)
-* The social media icons don't need to be fixed because they can interrupt content. The user base likely doesn't use much social media anyways. (1)
-
-> *Recommendation: Make the navigation menu opaque, and make it thinner by using the full width of the page and including only the necessary menu items so that more information can be displayed at a given time. Put social media icons in the footer, or at the top right if social media is actually used a lot by users (unlikely).*
+> *Recommendation: Make a fun, artsy, but professional looking website which doesn't take away from the user-experience. This website features extremely important information which has become unusable to people who want/need to acess it.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* When the wrong account information is entered on the patient portal, there is no indication of whether the username or password was incorrect (or both). (1)
+* When attempting to sign in as a visitor on the site, it prompts you to select whether or not you have a Yale NetID. After entering your information, it places you back to the page asking if you have a Yale NetID account. Furthermore, if you type the wrong account information into the sign in page, there is no indication of whether the username or password was incorrect (or both). It simply takes you back to the previous page without signing you in. (2)
 
-> *Recommendation: Tell users which field is incorrect so that they can only fix what's needed.*
+> *Recommendation: Fix the site error that takes the user back to the Yale NetID account prompt page, despite attempting to sign in as a visitor. This loopback does not allow users to understand what went wrong -- do they have to have a Yale NetID to log in even as a visitor, or is there just a technical site issue? Also, add an error message to the sign in page when wrong username and/or password information is inputted to indicate what went wrong, and offer a solution to fix this, such as linking to a password reset page.*
 
 #### 10. Help and Documentation
 * This website doesn’t feature a help page, FAQ, search bar, or any feature that provides additional help to the user. I believe all these features would be extremely beneficial to all who view the website. Furthermore, these added features would help mitigate other issues, such as searching for information in the atrociously organized and designed website. Most of the information on this site is not easily accessible to a first time viewer. (3)
 
 * A lot of information tends to be displayed via images and brochures, but it is difficult to find them. (3)
 
-> *Recommendation: Consolidate important general information on one page so that users are not completely confused. Provide a link to the contact page instead of randomly displaying the phone number and email. Provide more guidance to users on each page; there are many different departments, phone numbers, and locations. For example, who, where, and when exactly should a person contact if they are a new patient?*
+> *Recommendation: Include a HELP page, FAQ section, and a search bar in this website. The website is meant to be accessed by those wishing to attend / already do attend one of the most presigous institutions in the nation. These features will help mitigate the other obvious shortcomings in the design of the website. In this instance, these features are absolutely necessary.*
 
 ### Overall Assessment
 

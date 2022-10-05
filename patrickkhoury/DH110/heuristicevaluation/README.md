@@ -193,17 +193,17 @@ The Mayo Clinic website is very large and contains a lot of information, so the 
 
 
 
-## Website 2: [Chinatown Service Center (CSC)](https://www.cscla.org/)
+## Website 2: [Yale University Art School](https://www.art.yale.edu/)
 
 ### About
-[Chinatown Service Center (CSC)](https://www.cscla.org/) is a community-based Chinese-American health and human services organization that advocates for and provides services to immigrants and other communities. CSC's resources, including a Community Health Center that provides comprehensive healthcare, dental services, and behavioral services, are available in various Chinese dialects like Cantonese, Mandarin, Toishan, and Chiu Jou, as well as other languages like Vietnamese and Spanish.
+Yale University is a private Ivy League Research institution and one of the most distinguished universities in the world. It has upheld this excellence since its establishment in 1701. Contrary to popular belief, Yale is actually best known for their excellent drama, music, and art programs. According to [usnews.com](https://www.usnews.com/best-colleges/yale-university-1426#:~:text=Yale%20University%2C%20located%20in%20New,and%20the%20Yale%20Dramatic%20Association), Yale ranks 2nd in Best Fine Arts Programs (tie), 2nd in Graphic Design, 1st in Painting / Drawing, 2nd in Sculpture (tie), and 1st in Photography in the United States. 
 
-My goal is to make their website much more usable, especially for primary users of CSC's services, including low-income, non-English speaking, and elderly users.
+The [Yale School of Art website](https://www.art.yale.edu/) is the official website of the university’s graduate art program..It functions as a wiki; all school of art grad students, faculty, staff, and alums have the ability to change most of this site’s content (with some exceptions); and to add new content and pages. This can be particularly problematic. My goal is to make their website much more usable and accessible for all who view the site.
 
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* When a user hovers over the top navigation menu, only the "Home" button changes color. The rest of the menu items do not provide color feedback, and simply displays the dropdown for each. Furthermore, it takes a while to load each dropdown at times. Users would have difficulty understanding whether the website is responding to their movement or clicks. There is, however, a color change to help the user recognize the page they are currently on. (3)
+* Yale’s School of Art website unfortunately displays inconsistent feedback indicators for user action, perhaps as a symptom of its mish-mash of creators. On the site, the user hovering their cursor over certain links results in a feedback indicator of some kind; however, not only are the indicators inconsistent with one another, some links lack feedback indicators altogether. For example, in some cases, clickable links turn blue when the user navigates their cursor over them; in other cases, hovering the cursor over calendar events highlights and shakes the event. In both of these instances, the feedback provided leads the user to believe that clinking on the link or even would lead to a subpage on the site or to a different site altogether. In addition, some links are denoted with two arrows “>>” and some are denoted with just one “>”. Certainly, there is room for improvement in standardizing the feedback so as to ensure the user is clear about what the indicators mean. The potential user confusion due to inconsistency is only further compounded by the fact that not all links on the site have appropriate feedback for user action. Some links do not highlight or turn blue when the user hovers their cursor over it, potentially leading to issues with users not knowing that interacting with that link would potentially lead them to a subpage or different site -- they don’t appear to be “clickable” links. (3)
 
 <p align="center">
   <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
@@ -212,22 +212,21 @@ My goal is to make their website much more usable, especially for primary users 
 > *Recommendation: Make sure that there is some kind of feedback (e.g. color change) when the cursor hovers over each menu item.*
 
 #### 2. Match Between System and the Real World
-* Some of the icons for the Community Health Center page do not entirely match our perception for each category. The happy face doesn't really reflect Behavioral Health and the Medical Clinic icon just looks like a house (the medical cross is very small). The tooth is also difficult to see when Dental Clinic is selected (and inconsistent with the other icons). (1)
+*  The home page and many others use acronyms that first-time visitors might be unfamiliar with. For example, the acronym “SOA” is featured largely on the menu, but does not provide any insight on what those letters stand for. (1)
 
 <p align="center">
   <img src="../Images/community-health-center-icons.PNG" alt="Community Health Center icons"/>
 </p>
 
-*Recommendation: Use more literal and commonly accepted icons for the Behavioral Health and Medical Clinic icons (see examples [here](https://thenounproject.com/term/mental-health/3306335/) and [here](https://thenounproject.com/search/?q=medical&i=2468231)). Make sure icon styles are consistent as well.*
+*Recommendation: “use words, phrases, and concepts familiar to the user, rather than internal jargon” (Nielsen Norman Group). (see examples [here](https://thenounproject.com/term/mental-health/3306335/) and [here](https://thenounproject.com/search/?q=medical&i=2468231)). Make sure icon styles are consistent as well.*
 
 #### 3. User Control and Freedom
-* The image carousel on the homepage moves very slowly and also responds to clicks very slowly, so users are surprised when they actually animate. It can be frustrating if users want to look through the gallery at their pace. (3)
-* The image carousel on the Community Health Center page auto-forwards and moves much too quickly, to the point that clicking the small arrow controls doesn't allow the user to view the image they want to see (unless they realize they can click the image to see it in full screen), which is very frustrating. The carousel looks almost like an advertisement, which means it will likely be ignored. (3)
+* Does not promote user control and freedom to back out of processes -- for example, when selecting “Editor Details” within the Community Bulletin Board space, the “Editor Details” box enlarges and changes to reflect the respective editors’ names and note who has editor access. However, there is no clear way to exit that change: no cancel, undo, or “X” button to return to the original formatting. This is especially problematic when the enlarged size of the box containing the editors’ names covers up information that was previously readable. One can exit this interaction by clicking outside of the box, but this revert function is not clearly labeled and discoverable.
 
 > *Recommendation: Test users to see what the right timing for carousels would be. There should be enough time for users to read the text and process the information on each image. Use bigger arrows so that users can easily click them, and make sure the carousel is responsive to clicks. Add a visual indicator to show where the user is in the image gallery.*
 
 #### 4. Consistency and Standards
-* The top navigation menu is not consistent with normal webpages, which makes it difficult to use and grow accustomed to. (3)
+* There is no proper organization of the elements on the website. They are clustered together with no order of hierarchy and importance. (3)
 
 <p align="center">
   <img src="../Images/nav-bar.PNG" alt="Top Navigation Menu"/>
@@ -235,8 +234,16 @@ My goal is to make their website much more usable, especially for primary users 
 
 > *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
 
+* The inconsistent use of colors, fade effects, borders, and font styles (uppercase, lowercase, italicized, bold, underlined, and regular font) is distracting to say the very least. It makes the website practically unusable. (3)
+
+> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+
+* Inconsistent acronym usage “SoA in the world Calendar” in one place and right below it is “School of Arts in the world Calendar.” 
+
+> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+
 #### 5. Error Prevention
-* Phone numbers change based on which tab of the Community Health Center page the user is on. However, it is difficult to recognize this because these phone numbers aren't displayed below the tabs. It is easy for users to call the wrong number or send an email to the wrong email address. (3)
+* Website crashed often when I was navigating through it. "The server encountered an internal error or misconfiguration and was unable to complete your request. Please contact the server administrator, johannes.deyoung@yale.edu and inform them of the time the error occurred, and anything you might have done that may have caused the error. More information about this error may be available in the server error log." (3)
 
 <p align="center">
   <img src="../Images/behavioral-health-contact.PNG" alt="Contact information for Behavioral Health" width="550px"/>
@@ -247,7 +254,7 @@ My goal is to make their website much more usable, especially for primary users 
 > *Recommendation: Put the tabs above the content so that users know what information is relevant to which department. Put the contact information in a consistent and easy-to-find location for each tap. Alternatively, direct users to a contact page where they can easily find where they should contact.*
 
 #### 6. Recognition Rather Than Recall
-* When you hover over the top navigation menu, there is no indication of which menu item's dropdown is being displayed, forcing users to recall which of the menu items they were looking at. This also makes it more difficult for users to remember how they got to a certain page in the future. (2)
+* NEED TO FIGURE OUT (2)
 
 <p align="center">
   <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
@@ -256,23 +263,16 @@ My goal is to make their website much more usable, especially for primary users 
 > *Recommendation: Connect the dropdown box with the menu item title to show that the dropdown is under that header.*
 
 #### 7. Flexibility and Efficiency of Use
-* There is no search bar on the website. Given the extent of content and resources they provide, it would be very helpful to be able to search keywords that will lead users to the information they are looking for. (2)
+* The navigation bar is hidden as a first-time user on the page may not easily locate it for easy navigation through the various sections of the website. (2)
 
 > *Recommendation: Implement a search function to allow users another option to efficiently navigate through the website.*
 
-* On the homepage, the first image is about free COVID-19 vaccines. The image, however, is not clickable and does not lead to another page with the details, as one would expect. Instead, the user must look through the website to find the full image/pdf. (3)
+* The user experience of the community bulletin board can be better worked on. The community board should be well simplified so it does not overwhelm the user and can also carry the same experience as a real board. (3)
 
 <p align="center">
   <img src="../Images/csc-homepage.PNG" alt="CSC homepage"/>
 </p>
 
-* I was able to find it under "Upcoming Events" at the bottom of the homepage, where users are unlikely to scroll to. Even then, the information was elusive - the carousel constantly autorotates through random images/pdfs of different events, and the only way to navigate through them is through the left and right arrow keys. Furthermore, although there is an Events category under "More" in the top navigation menu, it is not clickable. (3)
-
-<p align="center">
-  <img src="../Images/upcoming-events-2.PNG" alt="Upcoming Events carousel with free vaccine event information"/>
-</p>
-
-> *Recommendation: Because these free events are an integral part of CSC services, it makes sense to put a working Events link in the top navigation menu. On the Events page, separate upcoming events from past events. If possible, provide the information directly on the page rather than in image or pdf format so that users don't have to open another tab or window to view the information. Organize events by category, clearly provide dates and times, show relevant pictures.*
 
 #### 8. Aesthetics and Minimalist Design
 * Throughout the website, we see an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects, low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. The Community Health Center homepage, in particular, demonstrates this well. (3)
@@ -292,7 +292,7 @@ My goal is to make their website much more usable, especially for primary users 
 > *Recommendation: Tell users which field is incorrect so that they can only fix what's needed.*
 
 #### 10. Help and Documentation
-* Virtually no help or documentation is provided on the website; the email and phone number are prominently displayed, so it is assumed that people would simply call or email to make an appointment or request information. Common information (such as what insurance they accept, phone numbers for different departments, how to request a "token" to access the patient portal) is randomly dispersed throughout the website. (3)
+* This website doesn’t feature a help page, FAQ, search bar, or any feature that provides additional help to the user. I believe all these features would be extremely beneficial to all who view the website. Furthermore, these added features would help mitigate other issues, such as searching for information in the atrociously organized and designed website. Most of the information on this site is not easily accessible to a first time viewer. (3)
 
 * A lot of information tends to be displayed via images and brochures, but it is difficult to find them. (3)
 

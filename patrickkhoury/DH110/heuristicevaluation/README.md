@@ -143,6 +143,10 @@ The UN Department of Economic and Social Affairs (DESA) Sustainable Development 
 
 ## Website 2: [Yale University Art School](https://www.art.yale.edu/)
 
+![Yale University Art School Homepage](yaleschoolofart.png)
+View the full site here: [Yale Art](https://www.art.yale.edu/)
+
+
 ### About
 Yale University is a private Ivy League Research institution and one of the most distinguished universities in the world. It has upheld this excellence since its establishment in 1701. Contrary to popular belief, Yale is actually best known for their excellent drama, music, and art programs. According to [usnews.com](https://www.usnews.com/best-colleges/yale-university-1426#:~:text=Yale%20University%2C%20located%20in%20New,and%20the%20Yale%20Dramatic%20Association), Yale ranks 2nd in Best Fine Arts Programs (tie), 2nd in Graphic Design, 1st in Painting / Drawing, 2nd in Sculpture (tie), and 1st in Photography in the United States. 
 

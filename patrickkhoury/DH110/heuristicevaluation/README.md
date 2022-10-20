@@ -136,7 +136,7 @@ In this sector, the United Nations defines 17 Sustainable Department Goals (SDG)
 #### 10. Help and Documentation
 * This website doesn’t feature a help page or FAQ, only a search bar. I believe a help page or FAQ section would be extremely beneficial to all who view the website. Furthermore, the added features would help mitigate other issues, such as the search bar, as most of the information on this site is not easily accessible to a first time viewer. (3)
 
-> *Recommendation: Include both a HELP page and FAQ section in this website. The website is meant to educate the population, and yet it does not feature any sections to mitigate the confusion their viewers are subject to. This is a missed opportunity to clarify important detais and answer common questions.*
+> *Recommendation: Include both a HELP page and FAQ section in this website. The website is meant to educate the population, and yet it does not feature any sections to mitigate the confusion their viewers are subject to. This is a missed opportunity to clarify important details and answer common questions.*
 
 ### Overall Assessment
 

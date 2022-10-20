@@ -221,4 +221,113 @@ The [Yale School of Art website](https://www.art.yale.edu/) is the official webs
 
 The Yale School of Art website purports to be an “ongoing collaborative experiment in digital publishing and information sharing” by existing as a wiki-esque site that can be edited by any member of the community. Though this experiment is certainly impressive and makes a bold statement to users that come across the site, the mis-matched nature of the website ultimately detracts from its usability in a variety of ways. Key issues within Visibility of System Status, Consistency and Standards, and Aesthetic and Minimalist Design usability heuristics for user interface design all point to issues with the site being too busy and disorganized. The site pages lack clear navigation and information grouping that makes it difficult to have a clear, consistent user experience. Instead, coupled with error message issues, the site becomes difficult and frustrating to use to access information. The Yale School of Art should focus key improvements to centralize on a core design and more organized information, simplifying the site to ensure that users are able to more easily navigate it without being overwhelmed or distracted.
 
+## Website 1: [The Department of Economic and Social Affairs Sustainable Development](https://sdgs.un.org/)
 
+![The Department of Economic and Social Affairs Sustainable Development](https://user-images.githubusercontent.com/114698093/194071444-9d916895-521e-4cf3-a59c-9f9612dfe838.png)
+View the full site here: [The Department of Economic and Social Affairs Sustainable Development](https://sdgs.un.org/)
+
+### About
+[The Department of Economic and Social Affairs (DESA) Sustainable Development](https://sdgs.un.org/) is a department run by the United Nations, an intergovernmental organization made up of 193 member states committed to maintaining peace, dignity, and equality on a healthy planet. Based on a global survey, conducted by international research agency Glocalities, indicates that the United Nations is trusted significantly more by the world population than any other international or governmental organization. 
+
+In this sector, the United Nations defines 17 Sustainable Department Goals (SDG) for all. The purpose of this website is to help inspire and mobilize actions promoting the implementation of SDGs around the world. Using the latest data and estimates, the annual SDG report provides an overview of the world’s implementation efforts to date. 
+
+
+### Heuristic Evaluation
+
+#### 1. Visibility of System Status
+* As you type in the search bar, the given suggestions are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. Upon clicking on one of these suggestions, the site fed back a message stating that they were too long for the search bar character limit. After finding one within the character limit, I got a message stating that there were no matching results. These autocomplete recommendations are constant for every letter in the alphabet. (3)
+
+> *Recommendation: Vet the system for all random letters, numbers, and symbols in the search bar. Cleaning this up will allow users to make relevant searches and find topics of interest more easily.*
+
+* Furthermore, the recommended results shown are mostly completely unrelated to sustainable development, which doesn't help the user navigate the website or effectively find information about the topic. (2)
+
+> *Recommendation: Optimize search results so that they are relevant to sustainable development only.*
+
+* Lastly, the search bar does not feed out suggestions in real time. Instead, a loading icon pops up after you are done typing, and it takes time to offer any autocomplete results. This could be particularly troublesome to users who may not know the exact term they want to look up, or to those who have accidentally misspelled a word. (2)
+
+> *Recommendation: Display results as the user types. This allows the user to find the information they were looking for much easier and helps them stay engaged.*
+
+
+#### 2. Match Between System and the Real World
+* The site lists the related Sustainable Development Goals (SGDs) for each article and event as numbers, with no text displaying what the numbers are referring to. The goals the numbers represent are not known to the vast majority of viewers. To be able to view the meaning behind each number, the user would have to scroll down to the very bottom of the website to see the info. (2)
+
+> *Recommendation: Write out the actual SDG for each article and event rather than displaying it as a number. This will enhance viewer comprehension, as it is impossible to expect new viewers to understand what each number represents.*
+
+* Additionally, the navigation bar uses acronyms that first-time visitors might be unfamiliar with. For example, the terms “HLPF” and “SIDS” are items featured on the navigation menu, but do not provide any insight on what those letters stand for. (2)
+
+> *Recommendation: As stated by Jakob Nielson himself, “use words, phrases, and concepts familiar to the user, rather than internal jargon.”*
+
+
+#### 3. User Control and Freedom
+* There are no “return to last page” buttons throughout the website. To be able to backtrack to the last page, the viewer would have to hit the search engine’s “click to go back” arrow. However this feature does not always work exactly at its intended use in this website. Some sub-pages aren’t registered as distinct pages according to the search engine, and the click to go back arrow skips pages at times. The mechanic on this site is rather faulty and can be frustrating to viewers attempting to go back and forth between pages. (2)
+
+> *Recommendation: Add a "review to last page button" or register sub-pages as distinct pages with differing URLs so the "click to go back" arrow on the top left of the search engine allows you to view the previous page.*
+
+
+#### 4. Consistency and Standards
+* Most sections on this website follow completely different formats. This makes it difficult for users to navigate through the pages to find relevant information, as the design is inconsistent across all pages and subpages. (2)
+
+> *Recommendation: Maintain some form of consistency within each page in the main website, so that users are able to navigate throughout the website without any issue.*
+
+* The HLPF page features a completely different menu than the majority of the website, with different navigation options. This does not allow you to go back to any of the primary sections of the website. This issue is particularly frustrating, as the HLPF page is featured as a key proponent of the Sustainable Development website, but has no option to navigate to any of the other pages within the site. (2)
+
+> *Recommendation: Maintain consistency within all branches of the main website so that users are able to navigate understand they are still in the same space. Keep the same navigation options for all pages within the main website, so users can navigate freely without any issues.*
+
+* The logo on the top-left corner on several pages does not take you to the homepage by clicking it. Instead, it takes you to a language prompt which directs you to the standard UN page. To get back to the Sustainable Development section, you’d have to navigate through the “Our Work” section on the navigation bar. This can be frustrating to those who intend to reach the homepage by clicking the logo in the top left. This isn’t an unreasonable action of the user, as many of the pages function in this correct way. (2)
+
+> *Recommendation: Make sure that clicking the logo will go back to the Sustainable Development homepage on every page within the website. Maintain consistency with functionalities so users don't get 'lost' on a certain page and are always able to return to the homepage.*
+
+
+#### 5. Error Prevention
+* As mentioned above, the possible recommendations in the search bar are extremely flawed, displaying random letters, numbers, and symbols which mean nothing and lead to nowhere. This is an error-prone condition, as the two outcomes from clicking on one of these flawed suggestions are not being within the character limit or getting an error message saying no matching results. (3)
+
+> *Recommendation: Get rid of all uncomprehensible suggestions in the search bar. This turned the search bar, a tool utilized to mitigate errors and naviagte the website, into an error-prone feature. Fixing its issues will solve this error prevention issue.*
+
+
+#### 6. Recognition Rather Than Recall
+* The suggestions given in the search bar are not relevant to the website whatsoever. The majority of key terms, goals, etc that are relevant to the website do not come up as suggestions in the search bar. This makes it difficult for users who may not know or remember the name of an event, goal, etc to access information about it since they have to enter it verbatim. (2)
+
+> *Recommendation: Provide actual assistence within the search bar. Suggestions have the opportunity to guide users to particular items in the website that they are looking for. This new system would allow users to research and recognize topics they would like to learn more about, rather than being forced to recall the exact name and spelling to be able to utiize the search bar.*
+
+
+#### 7. Flexibility and Efficiency of Use
+* The accessibility of the navigation bar can be a pain point to some viewers. It is relatively small and overshadowed by the large photos and graphics. Users must scroll all the way to the top to utilize it, as the website doesn’t make use of the “floating” feature typically incorporated in most websites. Additionally, this website doesn’t feature  a “scroll to top” button, which makes accessing the bar even more difficult. (1)
+
+> *Recommendation: Implement a "floating" navigation bar and a "scroll to top button" to reduce the scrolling required on the site, making the platform more accessible to all users.*
+
+* Another pain point on the site is the lack of organization for the news feed. The “NEWS” tab leads users to a page with 8 articles, the top 2 of which have misaligned thumbnails. While there appear to be more pages of news/articles, the site requires you to step through the pages one by one using arrows. However, the site neither shows how many pages there are in total, nor does it allow you to easily jump between pages. If a user was on page 10 of the News feed and wanted to go back to the first page, they would have to click the back arrow 9 times. (2)
+
+> *Recommendation: Implement a navigation bar on the bottom of the News tab page, allowing viewers to flip through any and all existing articles without having to click the back or forward arrow more than once.*
+
+
+#### 8. Aesthetic and Minimalist Design
+* This website features additional graphics and information not relevant to the general topic. Examples of this include the home page, event pages, the news tab, etc. Although aesthetically pleasing in some instances, many of the graphics take attention away from the pertinent information and are a bit overwhelming for someone simply trying to get relevant info (1)
+
+> *Recommendation: Cut down on the unnecessary images and draw focus to the relevant information. The page is run for the purpose of promoting sustainable development, but does not do a good job of drawing the readers to the important info.*
+
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* I clicked through the entire website and couldn't find any unnecessary or unclear error messages. This website did not featrure many errors, the only error inducing condition I found was the faulty search bar recommendations. However, even with this error the website wrote out what was wrong in clear sentences and allowed users to recover very easily after committing the error. (0)
+
+
+#### 10. Help and Documentation
+* This website doesn’t feature a help page or FAQ, only a search bar. I believe a help page or FAQ section would be extremely beneficial to all who view the website. Furthermore, the added features would help mitigate other issues, such as the search bar, as most of the information on this site is not easily accessible to a first time viewer. (3)
+
+> *Recommendation: Include both a HELP page and FAQ section in this website. The website is meant to educate the population, and yet it does not feature any sections to mitigate the confusion their viewers are subject to. This is a missed opportunity to clarify important details and answer common questions.*
+
+### Overall Assessment
+
+The UN Department of Economic and Social Affairs (DESA) Sustainable Development website was not terrible by any means. However, the high standards I upheld for the intergovernmental organization were not met. There were several visibility of system status issues, mainly to do with the search bar. The website used unfamiliar wording and acronyms, and the site suffered from its many usability issues. Some of these issues include a faulty homepage logo, poor naviagation bar choices, no effective back button, etc. Perhaps the most pressing issue is the search bar suggestions. This issue is error inducing and quite frustrating. Not only does it recommend random combinations of numbers, symbols, and letters; but it also does not suggest anything remotely relevant to the topic of the website. Some of these issues could have been mitigated if the creators had implemented a HELP page of FAQ section, however this was not the case. 
+
+
+
+## Website 2: [Global Platform for Sustainable Cities](https://www.thegpsc.org/)
+
+![![](https://user-images.githubusercontent.com/114698093/196871033-fa141327-199a-4097-a25f-90a3444fc0f2.png)](https://user-images.githubusercontent.com/114698093/194070556-71707bee-16ed-4db2-b610-594ce3c3bc5f.png)
+View the full site here: [Yale Art](https://www.art.yale.edu/)
+
+
+### About
+Yale University is a private Ivy League Research institution and one of the most distinguished universities in the world. It has upheld this excellence since its establishment in 1701. Contrary to popular belief, Yale is actually best known for their excellent drama, music, and art programs. According to [usnews.com](https://www.usnews.com/best-colleges/yale-university-1426#:~:text=Yale%20University%2C%20located%20in%20New,and%20the%20Yale%20Dramatic%20Association), Yale ranks 2nd in Best Fine Arts Programs (tie), 2nd in Graphic Design, 1st in Painting / Drawing, 2nd in Sculpture (tie), and 1st in Photography in the United States. 
+
+The [Yale School of Art website](https://www.art.yale.edu/) is the official website of the university’s graduate art program..It functions as a wiki; all school of art grad students, faculty, staff, and alums have the ability to change most of this site’s content (with some exceptions); and to add new content and pages. This can be particularly problematic. My goal is to make their website much more usable and accessible for all who view the site.
